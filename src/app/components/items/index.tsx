@@ -5,7 +5,7 @@ import comprarImg from "/img/comprar.png";
 export default function Page({data}:any){
   return(
     <div className="produtos-container flex justify-center">
-      <div className="produtos grid place-content-center grid-cols-4">
+      <div className="produtos grid place-content-center lg:grid-cols-4 md:grid-cols-2">
         {data.products.map((item:any) =>(
           <div key={item.id} className="card m-2 rounded-xl shadow-lg flex flex-col justify-between">
             <img className="cardImage" src={`${item.photo}`} alt={item.brand}/>
