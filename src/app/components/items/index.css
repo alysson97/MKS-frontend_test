@@ -1,0 +1,40 @@
+.produtos-container{
+  min-width: 100vw;
+}
+.produtos{
+  max-width: 60%;
+}
+.card{
+  background-color: #fff;  
+}
+.itemName, .price{
+  display:inline-flex;
+  max-width: 50%;
+  margin-left: .05rem;
+  margin-right: .05rem;
+}
+.itemName{
+  font-weight: 400;
+  font-size:large;
+}
+.price{
+
+  color: #d5d5d5;
+  font-weight: 300;
+  line-height: 1rem;
+  font-size: smaller;
+  background-color: #373737;
+  align-self: flex-start;
+}
+.description{
+  color: #2C2C2C;
+  font-weight: 300;
+  line-height: 1rem;
+  font-size:x-small;
+
+}
+.comprarButton{
+  background-color: #0F52BA;
+  color: #fff;
+  width: 100%;
+}
