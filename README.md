@@ -2,7 +2,6 @@
 
 # 🛒 MKS Frontend Test
 
-![Project Logo](https://via.placeholder.com/150)
 
 ## 🚀 Desafio para vaga de frontend
 
