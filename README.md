@@ -1,7 +1,10 @@
+
+
 ---
 
 # 🛒 MKS Frontend Test
 
+-
 
 ## 🚀 Desafio para vaga de frontend
 
@@ -86,10 +89,13 @@ npm run test
 Os testes incluem:
 - 🧪 Testes unitários para componentes individuais.
 
+
 ### Exemplos de Testes
 - Teste do componente `Header` para verificar se ele renderiza corretamente e se o botão de abrir o carrinho funciona.
 - Teste do componente `Carrinho` para verificar se exibe os itens adicionados corretamente.
 - Teste do componente `Items` para verificar se exibe os dados dos itens em cards corretamente.
 
 
+
 ---
+
