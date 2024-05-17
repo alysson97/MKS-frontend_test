@@ -1,5 +1,3 @@
-Claro! Aqui está a versão atualizada do README com emojis e sem a seção de licença:
-
 ---
 
 # 🛒 MKS Frontend Test
